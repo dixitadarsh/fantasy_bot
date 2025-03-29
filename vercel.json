@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/bot.py": {
-      "runtime": "python@3.12"
-    }
-  },
   "routes": [
     {
       "src": "/(.*)",
